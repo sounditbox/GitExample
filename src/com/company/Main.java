@@ -7,6 +7,7 @@ public class Main {
         // зелёный - new         файл (строчка) был добавлен
         // синий   - changed     файл (строчка) был изменён
         // жёлтый  - ignored     файл игнорируется
+        Greeter.talk();
         var counter = new Counter();
         counter.inc();
         System.out.println(counter.getCount());
