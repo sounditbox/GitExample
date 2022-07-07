@@ -7,6 +7,6 @@ public class Main {
         // зелёный - new         файл (строчка) был добавлен
         // синий   - changed     файл (строчка) был изменён
         // жёлтый  - ignored     файл игнорируется
-        Greeter.greet();
+        Greeter.talk();
     }
 }
