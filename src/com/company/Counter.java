@@ -11,6 +11,9 @@ public class Counter {
         this.count++;
     }
 
+    public void dec() {
+        this.count--;
+    }
 
     public int getCount() {
         return count;
